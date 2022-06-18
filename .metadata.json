@@ -1,0 +1,10 @@
+[
+  {
+    "package": "shorts",
+    "oncran": true
+  },
+  {
+    "package": "STMr",
+    "oncran": true
+  }
+]
